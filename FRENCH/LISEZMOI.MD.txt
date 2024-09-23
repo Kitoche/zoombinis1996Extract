@@ -1,0 +1,21 @@
+- BASECAMP_MHK : L'abri du rocher ( Feu de camp 1)
+- BCTWO_MHK : Aire Grozarbre ( Feu de camp 2)
+- BRIDGE_MHK : Les gorges allergiques ( Epreuve 1)
+- CAVES_MHK : La tanière du sphinx ( Epreuve 7)
+- FERRY_MHK : Le bac du père Mathieu ( Epreuve 4a)
+- FLEENS_MHK : Les Nizibooms (Epreuve 4b)
+- HOTEL_MHK : L'hôtel du temps compté ( Epreuve 5b)
+- LILLY_MHK : Les grenouilles ( Epreuve 5a)
+- MAZE2_MHK : Les Véhibulles (Epreuve 9)
+- MAP_MHK : La carte j'imagine
+- MIDIMPC_MHK : Des fichiers MIDI pour le PC
+- MIDIMAC_MHK : Des fichiers MIDI pour MAC
+- NET_MHK : La muraille de signes (Epreuve 6b)
+- PICKER_MHK : Createur de Zombinis à Zombinîle
+- PIZZA_MHK : la hutte à Pizza ( Epreuve 3)
+- SLIDES_MHK : La fosse de monte-pierre ( Epreuve 6a)
+- SMOKE_MHK : Le piège de cristal ( Epreuve 8)
+- TOWN_MHK : Zombiniville
+- TUNNELS_MHK : Les grottes de Passe-clos ( Epreuve 2)
+- XFER_MHK :  ?
+- ZOOMBINIS_MHK : Narrateur ( fichiers 200XX) + effets sonores des Zoombinis
